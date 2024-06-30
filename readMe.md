@@ -43,8 +43,6 @@ The deep learning model is converted into TensorFlow.js format for use in the br
 
 **finalDL** : Contains TensorFlow.js format of the deep learning model.
 
-**pictures** : Contains necessary pictures and video for readme file.
-
 **presentations and report** : Contains presentations and report of the project.
 
 **deepLearningModel.ipynb** : The code for creating and training the deep learning model.
